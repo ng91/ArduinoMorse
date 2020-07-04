@@ -6,6 +6,6 @@ on frequencies multiples.
 
 In my case fundamental frequency was around 1.22MHz.
 
-Here is video how it works: https://www.youtube.com/watch?v=zf0CYI7GF8Y
+Here is video how it works: https://youtu.be/zf0CYI7GF8Y?t=78
 
 ### Beware of squarewave. Take care of signal integrity on your PCBs. Don't make them radiate
