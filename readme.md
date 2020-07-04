@@ -6,4 +6,4 @@ on frequencies multiples.
 
 In my case fundamental frequency was around 1.22MHz.
 
-### Beware of squarewave. Take care of signal integrity on your PCBs. Don't make it radiate
+### Beware of squarewave. Take care of signal integrity on your PCBs. Don't make them radiate
